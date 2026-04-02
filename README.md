@@ -1,15 +1,24 @@
-Learning Data Analytics & Data Science
+# Learning Data Analytics & Science Portfolio
 
-This repository documents the beginning of my journey into Data Analytics and Data Science. It serves as a collection of projects, exercises, and notes as I build foundational skills in working with data across multiple tools and technologies.
+This portfolio showcases what I've learned in Data Analytics and Science, organized into four main categories:
 
-Areas of Focus
+## Classes
+University coursework that has contributed to my understanding of data analytics and science.
 
-MySQL – Writing and optimizing queries to efficiently retrieve, manipulate, and analyze data stored in relational databases.
+## Finished Projects
+Personal side projects that demonstrate my skills and application of data science principles.
 
-Python – Automating workflows, performing data analysis, and developing introductory machine learning models.
+## Online
+Coursework from platforms such as DataCamp and YouTube, highlighting additional learning resources that have enriched my knowledge.
 
-Microsoft Excel – Cleaning, organizing, and interpreting small to medium-sized datasets.
+## Tools
+- **Excel**  
+- **Power BI**  
+- **SQL**  
 
-Power BI – Creating interactive dashboards and visualizations to communicate data-driven insights effectively.
+## Languages Used
+- **Jupyter Notebook** (86.8%)  
+- **Python** (8.8%)  
+- **TeX** (4.4%)  
 
-This repository reflects my ongoing learning process, with an emphasis on practical application and continuous improvement in data analysis techniques.
+Feel free to explore the different sections to see my journey and the skills I've acquired!
